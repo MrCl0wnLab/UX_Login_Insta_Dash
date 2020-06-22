@@ -1,0 +1,11 @@
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\bin\Debug\UX_Login_Insta.exe.config
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\bin\Debug\UX_Login_Insta.exe
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\bin\Debug\UX_Login_Insta.pdb
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.csprojAssemblyReference.cache
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.FormLogin.resources
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.Properties.Resources.resources
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.csproj.GenerateResource.cache
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.exe
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.pdb
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_Insta.FormDash.resources
