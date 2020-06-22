@@ -1,0 +1,10 @@
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\bin\Debug\UX_Login_NoBorder.exe.config
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\bin\Debug\UX_Login_NoBorder.exe
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\bin\Debug\UX_Login_NoBorder.pdb
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.csprojAssemblyReference.cache
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.FormLogin.resources
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.Properties.Resources.resources
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.csproj.GenerateResource.cache
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.exe
+C:\Users\Cleiton\source\repos\UX_Login_NoBorder\UX_Login_NoBorder\obj\Debug\UX_Login_NoBorder.pdb
